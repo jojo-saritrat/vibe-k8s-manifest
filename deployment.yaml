@@ -16,9 +16,10 @@ spec:
         app: vibe-01
     spec:
       containers:
-      - image: nginx
-        name: nginx
+      - image: jumpboxacademy/vibe-01
+        name: vibe-01
         ports:
         - containerPort: 80
         resources: {}
+        imagePU
 status: {}

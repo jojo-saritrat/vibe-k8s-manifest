@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - jumpboxacademy/vibe-01:5e9440605e20a2b7f6a1c42cd020d79bc5d4b15d
+  - jumpboxacademy/vibe-01:9933144d5f901ee66aa6879e6d0cf8fe4abb5ccf
